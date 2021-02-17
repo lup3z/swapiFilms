@@ -19,8 +19,8 @@ Nombre: Darth Vader
 Pelicula: http://swapi.dev/api/films/6/ 
 
 
-* El test se ejecuta desde el runner en la clase "ConsultaPeliTest", ubicado en la ruta swapiFilms\src\test\java\tests
+El test se ejecuta desde el runner en la clase "ConsultaPeliTest", ubicado en la ruta swapiFilms\src\test\java\tests
 
-condiciones para que corra el test
+Condiciones para que corra el test:
 * JAVA 1.8
 * MAVEN
